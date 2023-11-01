@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\AVLTreeTest\AVLTreeTest\main.c(15,13): warning C4013: niezdefiniowany "height"; przy założeniu, że extern zwraca int
+  AVLTreeTest.vcxproj -> C:\Users\48571\source\repos\AVLTreeTest\x64\Debug\AVLTreeTest.exe
